@@ -1,5 +1,4 @@
 body{
-    background-color: #d64066;
     font-family: 'VT323' , monospace;
     font-size: 1em;
 }
@@ -45,4 +44,15 @@ body{
 .portfolio-align a:hover{
     text-decoration: none;
     color: #71e2a6;
+}
+.nav-pills .nav-link.active{
+    background-color: #71e2a6;
+    color: rgb(1, 10, 58);
+}
+
+.nav-link{
+    color: #71e2a6;
+}
+.nav-link:hover{
+    color: #e8af30;
 }
