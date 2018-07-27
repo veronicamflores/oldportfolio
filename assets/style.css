@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(1, 10, 58);
+}
+
 .bg-yellow{
     background-color:#e8af30;
 }
@@ -11,8 +15,16 @@
     background-color:#71e2a6;
 }
 .img-back{
-    background: url('arches-national-park-dark-dusk-33688.jpg') no-repeat center center;
+    background: url('IMG-0102.PNG') no-repeat center center;
     background-size: cover;
-    height: 40rem;
+    height: 50rem;
     color: white;
+}
+.flex-portfolio{
+    display:flex;
+    align-items: stretch;
+}
+.img-height{
+    height:15vh;
+    border-radius:50%;
 }
