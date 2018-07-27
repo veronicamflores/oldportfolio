@@ -11,9 +11,8 @@
     background-color:#71e2a6;
 }
 .img-back{
-    background-image: url('beach-cliffs-evening-977736.jpg');
+    background: url('arches-national-park-dark-dusk-33688.jpg') no-repeat center center;
     background-size: cover;
     height: 40rem;
-    font-size: 5vh;
     color: white;
 }
