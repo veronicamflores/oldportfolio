@@ -1,9 +1,14 @@
 body{
     background-color: #d64066;
+    font-family: 'VT323' , monospace;
+    font-size: 1em;
 }
 
 .bg-yellow{
     background-color:#e8af30;
+}
+.bg-dark-yellow{
+    background-color:#f3a90a;
 }
 .bg-pink{
     background-color:#e2718d;
@@ -19,13 +24,25 @@ body{
     background-size: cover;
     height: 50rem;
     color: white;
-    font-family: 'Monoton' , cursive;
+    font-size:4em;
 }
-.flex-portfolio{
-    display:flex;
-    align-items: stretch;
+.img-back h1{
+    font-size: 1em;
 }
 .img-height{
     height:20vh;
     border-radius:50%;
+}
+.portfolio-align{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.portfolio-align  a{
+    text-decoration: none;
+    color: white;
+}
+.portfolio-align a:hover{
+    text-decoration: none;
+    color: #71e2a6;
 }
