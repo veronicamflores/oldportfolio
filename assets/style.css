@@ -1,0 +1,16 @@
+.bg-yellow{
+    background-color:#e8af30;
+}
+.bg-pink{
+    background-color:#e2718d;
+}
+.bg-green{
+    background-color:#71e2a6;
+}
+.img-back{
+    background-image: url('beach-cliffs-evening-977736.jpg');
+    background-size: cover;
+    height: 40rem;
+    font-size: 5vh;
+    color: white;
+}
