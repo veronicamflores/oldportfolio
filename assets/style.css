@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(1, 10, 58);
+    background-color: #d64066;
 }
 
 .bg-yellow{
@@ -19,12 +19,13 @@ body{
     background-size: cover;
     height: 50rem;
     color: white;
+    font-family: 'Monoton' , cursive;
 }
 .flex-portfolio{
     display:flex;
     align-items: stretch;
 }
 .img-height{
-    height:15vh;
+    height:20vh;
     border-radius:50%;
 }
