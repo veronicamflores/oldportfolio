@@ -60,4 +60,6 @@ body{
     background: url('IMG-0105.PNG') no-repeat center center;
     background-size: cover;
     height: 25rem;
+    color: white;
+    font-size:2em;
 }
