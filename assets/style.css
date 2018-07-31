@@ -56,3 +56,8 @@ body{
 .nav-link:hover{
     color: #e8af30;
 }
+.img-bg-mount{
+    background: url('IMG-0105.PNG') no-repeat center center;
+    background-size: cover;
+    height: 25rem;
+}
